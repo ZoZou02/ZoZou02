@@ -23,11 +23,10 @@
 
 <div align="center">
 
-
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=ZoZou02&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=ZoZou02&bg_color=000000&color=ffffff&line=a32634&point=ffffff&area=true&hide_border=true" alt="Activity"/></td>
   </tr>
 </table>
 <div>
