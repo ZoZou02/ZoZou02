@@ -30,7 +30,7 @@
   </tr>
 </table>
 <div>
-  README文件编辑参考<a href="https://github.com/kasuie/kasuie/">kasuie</a>
+  <!-- README文件编辑参考<a href="https://github.com/kasuie/kasuie/">kasuie</a> -->
 </div>
 
 </div>
