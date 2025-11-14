@@ -12,12 +12,6 @@
 
 <br/>
 
-<div align="center" >
-  
-<!-- GitHub 数据统计 -->
-<img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ZoZou02&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=45,84fab0,8fd3f4" /><br><br>
-
-</div>
 
 <!-- ########################################## 分割 ########################################## -->
 
